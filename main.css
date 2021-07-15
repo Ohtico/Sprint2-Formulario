@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+body{
+    font-family: 'Merienda', cursive;
+    background-image: url(https://contenidosclick.es/wp-content/uploads/2018/04/por-qu-el-marketing-de-contenidos-es-esencial-si-tu-empresa-se-dedica-al-mundo-de-animales-y-veterinaria-1.jpg) ;
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+form{
+    background-color: rgba(235, 74, 87, 0.589);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+}
+h1{
+    font-size: 5em;
+    text-align: center;
+}
+.center-content{
+    text-align: center;
+}
+#cabecera{
+    width: 640px;
+    margin: 30px auto;
+    background: rgba(235, 74, 87, 0.589);
+    text-align: center;
+    font-size: 1.3em;
+}
+input, textarea{
+    outline: none;
+    border: 0;
+    width: 280px;
+}
+.field{
+    border: solid 1px #999;
+    padding: 7px;
+}
+.field:focus{
+    border-color: rgb(52, 17, 207);
+}
+.btn{
+    border-radius: 3px;
+    display: inline-block;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-shadow: o 1px 0 rgba(255, 255, 255, 0.3);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 3) ;
+}
+.btn-green{
+    color: white;
+    background-color: #3cc93f;
+}
+.btn-green:hover{
+    background-color: #37b839;
+}
+.btn-green:active{
+    background-color: #29962a;
+}
+.pie-pagina{
+    text-align: center;
+    height: 40px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgba(96, 226, 198, 0.486);
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+}
+.pie-pagina p{
+    margin-top: 10px;    
+}
+.radio{
+    text-align: center;
+
+}
+.mascota{
+    text-align: center;
+
+}
